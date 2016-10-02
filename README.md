@@ -1,2 +1,5 @@
 # PrinterTesting
-Trying out Java classes and packages - following the pluralsight Java fundamentals course part 1
+
+Trying out Java classes and packages
+
+Following the PluralSight Java Fundamentals Part 1 course
